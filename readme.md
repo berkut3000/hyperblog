@@ -1,2 +1,2 @@
 ## Prefacio
-Esta es una práctica para el Curso POrfesional de Git y Github de Platzi, impartido por Freddy Vega
+Esta es una práctica para el Curso Profesional de Git y Github de Platzi, impartido por Freddy Vega
